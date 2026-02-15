@@ -9,6 +9,7 @@ npm install @types/node
 ```
 
 # Example Code
+**mp3 download**
 ```javascript
 import { download, search } from "./src/index.ts";
 
@@ -18,6 +19,21 @@ import { download, search } from "./src/index.ts";
     if (list.length > 0 && list[0]?.url) {
         const first_url = list[0].url;
         const result = await download(first_url, "./files", "001", "mp3");
+
+        console.log(result);
+    }
+})();
+```
+**mp4 download**
+```javascript
+import { download, search } from "./src/index.ts";
+
+(async() => {
+    const list = await search("fromis9 Supersonic");
+    
+    if (list.length > 0 && list[0]?.url) {
+        const first_url = list[0].url;
+        const result = await download(first_url, "./files", "001", "mp4");
 
         console.log(result);
     }
