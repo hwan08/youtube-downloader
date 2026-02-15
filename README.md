@@ -68,4 +68,4 @@ import { download, search } from "./src/index.ts";
 ```
 
 # Image
-https://cdn.discordapp.com/attachments/1307112787528515595/1472552465386705058/image.png?ex=6992fcda&is=6991ab5a&hm=0bd73d541a9bdfc7eafc521cae0f2404a4babd3f8d4509a8dae35701838b6f4a&
+[Image]([https://example.com/image.png](https://cdn.discordapp.com/attachments/1307112787528515595/1472552465386705058/image.png?ex=6992fcda&is=6991ab5a&hm=0bd73d541a9bdfc7eafc521cae0f2404a4babd3f8d4509a8dae35701838b6f4a&))
