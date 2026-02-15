@@ -68,4 +68,4 @@ import { download, search } from "./src/index.ts";
 ```
 
 # Image
-[[![스크린샷 2024-12-11 165615](https://github.com/user-attachments/assets/8c9bff53-8984-4301-ad87-5abf24449fed)](https://cdn.discordapp.com/attachments/1307112787528515595/1472551930642301119/image.png?ex=6992fc5a&is=6991aada&hm=3094c5e8ff3f8fff6f118c4042af3b37be24bf2690cb07e480a2bc8bffd65605&)](https://cdn.discordapp.com/attachments/1307112787528515595/1472552465386705058/image.png?ex=6992fcda&is=6991ab5a&hm=0bd73d541a9bdfc7eafc521cae0f2404a4babd3f8d4509a8dae35701838b6f4a&)
+[[![스크린샷 2024-12-11 165615]([https://github.com/user-attachments/assets/8c9bff53-8984-4301-ad87-5abf24449fed)](https://cdn.discordapp.com/attachments/1307112787528515595/1472551930642301119/image.png?ex=6992fc5a&is=6991aada&hm=3094c5e8ff3f8fff6f118c4042af3b37be24bf2690cb07e480a2bc8bffd65605&](https://cdn.discordapp.com/attachments/1307112787528515595/1472552465386705058/image.png?ex=6992fcda&is=6991ab5a&hm=0bd73d541a9bdfc7eafc521cae0f2404a4babd3f8d4509a8dae35701838b6f4a&))]
